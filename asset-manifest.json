@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nature-information/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nature-information/static/js/main.d2c00ca2.chunk.js",
+    "main.js.map": "/nature-information/static/js/main.d2c00ca2.chunk.js.map",
+    "runtime-main.js": "/nature-information/static/js/runtime-main.51ab9fe2.js",
+    "runtime-main.js.map": "/nature-information/static/js/runtime-main.51ab9fe2.js.map",
+    "static/js/2.5bf71193.chunk.js": "/nature-information/static/js/2.5bf71193.chunk.js",
+    "static/js/2.5bf71193.chunk.js.map": "/nature-information/static/js/2.5bf71193.chunk.js.map",
+    "static/js/3.ac1bb26f.chunk.js": "/nature-information/static/js/3.ac1bb26f.chunk.js",
+    "static/js/3.ac1bb26f.chunk.js.map": "/nature-information/static/js/3.ac1bb26f.chunk.js.map",
+    "index.html": "/nature-information/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nature-information/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5bf71193.chunk.js.LICENSE.txt": "/nature-information/static/js/2.5bf71193.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nature-information/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ab9fe2.js",
+    "static/js/2.5bf71193.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d2c00ca2.chunk.js"
+  ]
+}
