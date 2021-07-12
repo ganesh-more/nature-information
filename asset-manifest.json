@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/nature-information/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/nature-information/static/js/main.d2c00ca2.chunk.js",
-    "main.js.map": "/nature-information/static/js/main.d2c00ca2.chunk.js.map",
-    "runtime-main.js": "/nature-information/static/js/runtime-main.51ab9fe2.js",
-    "runtime-main.js.map": "/nature-information/static/js/runtime-main.51ab9fe2.js.map",
-    "static/js/2.5bf71193.chunk.js": "/nature-information/static/js/2.5bf71193.chunk.js",
-    "static/js/2.5bf71193.chunk.js.map": "/nature-information/static/js/2.5bf71193.chunk.js.map",
-    "static/js/3.ac1bb26f.chunk.js": "/nature-information/static/js/3.ac1bb26f.chunk.js",
-    "static/js/3.ac1bb26f.chunk.js.map": "/nature-information/static/js/3.ac1bb26f.chunk.js.map",
+    "main.css": "/nature-information/static/css/main.b2dfc518.chunk.css",
+    "main.js": "/nature-information/static/js/main.f2634e4a.chunk.js",
+    "main.js.map": "/nature-information/static/js/main.f2634e4a.chunk.js.map",
+    "runtime-main.js": "/nature-information/static/js/runtime-main.58305b3d.js",
+    "runtime-main.js.map": "/nature-information/static/js/runtime-main.58305b3d.js.map",
+    "static/css/2.072896be.chunk.css": "/nature-information/static/css/2.072896be.chunk.css",
+    "static/js/2.0a770a3c.chunk.js": "/nature-information/static/js/2.0a770a3c.chunk.js",
+    "static/js/2.0a770a3c.chunk.js.map": "/nature-information/static/js/2.0a770a3c.chunk.js.map",
+    "static/js/3.611782d4.chunk.js": "/nature-information/static/js/3.611782d4.chunk.js",
+    "static/js/3.611782d4.chunk.js.map": "/nature-information/static/js/3.611782d4.chunk.js.map",
     "index.html": "/nature-information/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/nature-information/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5bf71193.chunk.js.LICENSE.txt": "/nature-information/static/js/2.5bf71193.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/nature-information/static/media/logo.6ce24c58.svg"
+    "static/css/2.072896be.chunk.css.map": "/nature-information/static/css/2.072896be.chunk.css.map",
+    "static/css/main.b2dfc518.chunk.css.map": "/nature-information/static/css/main.b2dfc518.chunk.css.map",
+    "static/js/2.0a770a3c.chunk.js.LICENSE.txt": "/nature-information/static/js/2.0a770a3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51ab9fe2.js",
-    "static/js/2.5bf71193.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d2c00ca2.chunk.js"
+    "static/js/runtime-main.58305b3d.js",
+    "static/css/2.072896be.chunk.css",
+    "static/js/2.0a770a3c.chunk.js",
+    "static/css/main.b2dfc518.chunk.css",
+    "static/js/main.f2634e4a.chunk.js"
   ]
 }
