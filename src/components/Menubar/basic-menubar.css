@@ -1,0 +1,40 @@
+.menubarWrapper{
+  display: flex;
+  background-color: #232f4a;
+  align-items: center;
+  height: 50px;
+}
+.menu {
+  margin-left: 20px;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  position: relative;
+
+}
+
+.selected {
+  font-weight: 400;
+}
+
+div.menu:hover {
+  opacity: 0.5
+}
+
+.vertical {
+  height: auto;
+  flex-direction: column;
+  align-items: start;
+  width: 150px;
+  background-color: #61dafb;
+  flex: none;
+}
+
+.vertical .menu {
+  margin-bottom: 10px;
+}
+
+
+.vertical div:first-of-type {
+  margin-top: 10px;
+}
